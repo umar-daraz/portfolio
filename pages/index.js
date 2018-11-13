@@ -1,5 +1,8 @@
+import About from '../components/About';
 const App = () => (
-  <div>Hello Next!</div>
-)
+  <div>
+    <About />
+  </div>
+);
 
 export default App;
