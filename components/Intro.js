@@ -8,6 +8,7 @@ import {
 } from '@fortawesome/free-brands-svg-icons';
 const IntroStyles = styled.div`
   display: flex;
+  height: 100vh;
   justify-content: center;
   align-items: center;
   .intro {
